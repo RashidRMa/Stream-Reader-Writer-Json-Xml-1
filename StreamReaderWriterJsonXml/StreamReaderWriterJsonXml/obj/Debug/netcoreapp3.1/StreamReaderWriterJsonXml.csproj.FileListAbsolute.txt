@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.exe
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.deps.json
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.runtimeconfig.json
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.dll
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.pdb
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.dll
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.pdb
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.genruntimeconfig.cache
