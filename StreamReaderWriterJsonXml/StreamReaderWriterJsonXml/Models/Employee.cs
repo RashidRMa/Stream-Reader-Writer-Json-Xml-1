@@ -7,9 +7,12 @@ namespace StreamReaderWriterJsonXml.Models
     class Employee
     {
         private static int _id;
-        public int ID { get; }
+        public int ID { get; set; }
         public string Name { get; set; }
         public double Salary { get; set; }
+        
+
+        
 
         public Employee(string name, double salary)
         {
@@ -17,6 +20,7 @@ namespace StreamReaderWriterJsonXml.Models
             ID = _id;
             Name = name;
             Salary = salary;
+            
         }
 
         public void ShowInfo()
@@ -25,9 +29,6 @@ namespace StreamReaderWriterJsonXml.Models
                 $"Name: {Name} \n" +
                 $"Salary: {Salary}");
         }
-        public override string ToString()
-        {
-            return ShowInfo();
-        }
+        
     }
 }

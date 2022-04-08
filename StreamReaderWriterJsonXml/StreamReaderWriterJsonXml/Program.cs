@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using StreamReaderWriterJsonXml.Models;
 using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace StreamReaderWriterJsonXml
@@ -26,7 +27,8 @@ namespace StreamReaderWriterJsonXml
             Console.WriteLine("Please enter Department Name: ");
             string inputDepartment = Console.ReadLine();
 
-            Department deparment = new Department(inputDepartment);
+            Department department = new Department(inputDepartment);
+            
             int input;
             do
             {
@@ -36,23 +38,46 @@ namespace StreamReaderWriterJsonXml
                 switch (input)
                 {
                     case (int)menu.AddEmployee:
+                        Console.Clear();
                         Console.WriteLine("Please enter Name Employee: ");
                         string inputName = Console.ReadLine();
                         Console.WriteLine("Please enter Salary Employee: ");
                         double inputSalary = int.Parse(Console.ReadLine());
                         Employee employee = new Employee(inputName,inputSalary);
-                        deparment.AddEmployee(employee);
+                        department.AddEmployee(employee);
                         string result = JsonConvert.SerializeObject(employee);
                         using (StreamWriter streamWriter=new StreamWriter(pathFile))
                         {
-                            
+                            streamWriter.WriteLine(result);
                         }
                         break;                        
                     
                     case (int)menu.GetEmployeeById:
+                        Console.Clear();
+                        Console.WriteLine("Please enter ID: ");
+                        int intputId = int.Parse(Console.ReadLine());
+                        string result1;
+                        using (StreamReader streamReader=new StreamReader(pathFile))
+                        {
+                            result1 = streamReader.ReadToEnd();
+                        }                        
+
+                        Department employee1 = JsonConvert.DeserializeObject<Department>(result1);
+                        
                         break;
+                        
 
                     case (int)menu.RemoveEmployee:
+                        Console.Clear();
+                        Console.Write("Please enter ID: ");
+                        int inputID = int.Parse(Console.ReadLine());
+                        string result2;                        
+                        using (StreamReader stream = new StreamReader(pathFile))
+                        {
+                            result2 = stream.ReadToEnd();
+                        }
+                        Department employee2 = JsonConvert.DeserializeObject<Department>(result2);
+                        employee2.RemoveEmployeeById(inputID);
                         break;
                     case (int)menu.Quit:
                         break;

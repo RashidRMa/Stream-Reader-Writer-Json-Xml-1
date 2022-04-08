@@ -12,3 +12,5 @@ C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\Stream
 C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.dll
 C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.pdb
 C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.genruntimeconfig.cache
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\CodeAcademy\Development\Stream-Reader-Writer-Json-Xml\StreamReaderWriterJsonXml\StreamReaderWriterJsonXml\obj\Debug\netcoreapp3.1\StreamReaderWriterJsonXml.csproj.CopyComplete
